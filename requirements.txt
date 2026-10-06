@@ -1,0 +1,13 @@
+pandas
+openpyxl
+xlsxwriter
+xlrd
+requests
+selenium>=4.6
+beautifulsoup4
+lxml
+tqdm
+python-whois
+markdownify
+# optional
+selenium-stealth

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# data and run outputs - keep scraped leads out of git
+*.csv
+*.xlsx
+*.xls
+*.db
+*.db-wal
+*.db-shm
+*.json
+*.bak
+input/
+backups*/
+*_EMAIL_DATA/
+*_summary.txt
